@@ -1,0 +1,38 @@
+.cal_box{
+    width: auto;
+    height: 70vh;
+    border: 2px solid black;
+    margin-top :2%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.calendar{
+    margin-top: 2%;
+    height: 50vh;
+    width: 50vw;
+    border: 1px solid black;
+}
+
+.mini_calendar{
+    margin-top: 2%;
+    height: 30vh;
+    width: 30vw;
+    border: 1px solid black;
+}
+
+.foot{
+    height: 35vh;
+    width: auto;
+    background-color: green;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo_foot{
+    height: 32vh;
+    width: 32vw;
+    border: 2px solid black;
+    margin-top: 0.6%;
+}
