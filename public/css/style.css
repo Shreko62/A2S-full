@@ -241,21 +241,21 @@ h1{
     }
     
     .text_histo{
-        font-size: 30px;
+        font-size: 1.8rem;
     }
     
     .foot{
         height: 50vh;
         width: auto;
         margin-right: 9%;
-        margin-top: 5%;
+        margin-top: 20%;
         display: flex;
         flex-direction: row;
         
     }
     
     .logo_foot{
-        height: 49vh;
+        height: 55vh;
         width: 85vw;
         
         margin-top: 0.6%;
@@ -265,7 +265,7 @@ h1{
     }
 
     .logo_foot_legal{
-        height: 49vh;
+        height: 55vh;
         width: 85vw;
         padding-left: 2%;
         padding-right: 2%;
@@ -276,7 +276,7 @@ h1{
     }
     
     .logo_foot_contact{
-        height: 49vh;
+        height: 55vh;
         width: 85vw;
         
         margin-top: 0.6%;
@@ -294,12 +294,12 @@ h1{
     }
     
     .coord{
-        font-size: 1.5rem;
+        font-size: 0.8rem;
         
     }
     
     .mentions{
-        font-size: 2rem;
+        font-size: 1.3rem;
         margin-top: 5%;
         margin-left: 2%;
     }
@@ -317,13 +317,13 @@ h1{
     
     .jumbotron{
         width: auto;
-        height: 55vh;
+        height: 85vh;
     }
     
     .part_logo{
         
         height: 10vh;
-        width: 5vw;
+        width: 4.9vw;
         opacity: 0.8;
         
     }
@@ -333,6 +333,6 @@ h1{
     }
     
     .legal{
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
 }
